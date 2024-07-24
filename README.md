@@ -10,6 +10,6 @@
 
 <div align="center">
    <samp>
-      Computer science student with a passion for hands-on learning and exploration.
+      Computer science undergraduate with a passion for hands-on learning and exploration.
    </samp>
 </div>
