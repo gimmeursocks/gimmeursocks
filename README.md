@@ -13,6 +13,6 @@
 
 <div align="center">
    <samp>
-      Computer science undergraduate with a passion for hands-on learning and exploration.
+      Motivated DevOps junior with a passion for hands-on learning and exploration.
    </samp>
 </div>
