@@ -42,3 +42,10 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=gimmeursocks&color=grey" alt="Profile views" />
 </div>
+
+---
+
+## 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
